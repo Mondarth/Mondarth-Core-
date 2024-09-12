@@ -1,0 +1,34 @@
+{
+  "id": "mondarth-core",
+  "title": "Mondarth (Core)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ulenar of Mondarth",
+      "email": "ulenarofmondarth@gmail.com",
+      "url": "https://mondarth.com",
+      "discord": "ulenarofmondarth",
+      "flags": {}
+    }
+  ]
+}
